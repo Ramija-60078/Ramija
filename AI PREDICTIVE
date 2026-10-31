@@ -1,0 +1,22 @@
+## 🎬 Project Demonstration
+
+**AI Predictive Maintenance System** is an intelligent industrial monitoring solution designed to analyze machine operating conditions and predict potential equipment failures using machine learning.
+
+### Demo Highlights
+- Real-time machine condition monitoring, where supported by the implementation.
+- AI-based failure prediction using machine-learning techniques.
+- Machine health status and prediction results.
+- Dashboard-based monitoring and visualization.
+- 3D animated visualization of industrial predictive maintenance.
+
+### Technologies Used
+- **Frontend:** React.js
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
+- **Machine Learning:** Python, Scikit-learn (if used in the implementation)
+
+### Demo Video
+Watch the project demonstration: **[Insert your demo video link here]**
+
+### Project Objective
+To demonstrate how machine-learning techniques can support predictive maintenance, identify potential equipment failures, and help reduce unplanned industrial downtime.
